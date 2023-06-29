@@ -11,12 +11,12 @@
   - [Batalla por el Reino Animal](https://github.com/DrewArg/ProyectoFinalJavaScript)
 - <b> HTML & CSS:</b>
   - [La Dormilona Padel Tour](https://github.com/DrewArg/La_Dormilona_Padel_Tour-AndresFabbiano)
-<!-- - <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>C# (.NET Desktop Applications)</b>
+
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)-->
+
+- <b>Java<b>
+  
 
 <h2>📺 Certificados</h2>
 
