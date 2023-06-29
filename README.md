@@ -8,22 +8,29 @@
   - [Programacion Avanzada](https://github.com/DrewArg/FinalProgramacionAvanzada)
   - [Juego de Cartas](https://github.com/DrewArg/JuegoCartas)
   - [El Edificio](https://github.com/DrewArg/ElEdificioFinal)
+    
 - <b>Php:</b>
   - [Laravel MVC App](https://github.com/DrewArg/ProduccionWeb)
  <!-- - [Final Produccion Web 2](https://github.com/DrewArg/Recuperatorio-Desarrollo-Web-2/tree/main)-->
 - <b>C#</b>
   - [El cine](https://github.com/GastonMastrogiacomo/TP1---GRUPO-C)
+    
 - <b>Node JS:</b>
   - [API REST](https://github.com/DrewArg/ProgramacionBackend/tree/main)
+    
 - <b>React JS:</b>
   - [La Batalla por el Reino Animal 🐙 ❌ 🐺](https://github.com/DrewArg/ProyectoFinalReactJs)
+    
 - <b>React Native:</b>
   - [Any Game Companion](https://github.com/DrewArg/ReactNative)
+    
 - <b>Javascript</b>
   - [Batalla por el Reino Animal](https://github.com/DrewArg/ProyectoFinalJavaScript)
   - [El Hotel](https://github.com/DrewArg/ProduccionWeb1)
+    
 - <b> HTML & CSS:</b>
   - [La Dormilona Padel Tour](https://github.com/DrewArg/La_Dormilona_Padel_Tour-AndresFabbiano)
+    
 - <b>C - Arduino Uno</b>
   - [Levantador de Persinas](https://github.com/DrewArg/LevantadorDePersianas)
 
