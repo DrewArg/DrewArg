@@ -11,6 +11,8 @@
 - <b>Php:</b>
   - [Laravel MVC App](https://github.com/DrewArg/ProduccionWeb)
  <!-- - [Final Produccion Web 2](https://github.com/DrewArg/Recuperatorio-Desarrollo-Web-2/tree/main)-->
+ - <b>C#</b>
+  - [El cine](https://github.com/GastonMastrogiacomo/TP1---GRUPO-C)
 - <b>Node JS:</b>
   - [API REST](https://github.com/DrewArg/ProgramacionBackend/tree/main)
 - <b>React JS:</b>
@@ -22,12 +24,8 @@
   - [El Hotel](https://github.com/DrewArg/ProduccionWeb1)
 - <b> HTML & CSS:</b>
   - [La Dormilona Padel Tour](https://github.com/DrewArg/La_Dormilona_Padel_Tour-AndresFabbiano)
-- <b>C#</b>
-  - [El cine](https://github.com/GastonMastrogiacomo/TP1---GRUPO-C)
-<!-- -- <b>C - Arduino Uno</>-->
- <!-- - - [Levantador de Persinas]()-->
-<!-- - <b>Python</b>-->
-
+- <b>C - Arduino Uno</>
+  - [Levantador de Persinas](https://github.com/DrewArg/LevantadorDePersianas)
 
 <h2>🎓 Certificados</h2>
 
@@ -45,6 +43,13 @@
   
 - [QA Manual Testing](https://www.coderhouse.com/certificados/63c5863a1d35cc000e93f375)
 
+<h2> Ejecitaciones</h2>
+- <b>Exercism</b>
+  - [Python](https://github.com/DrewArg/exercism/tree/main/python)
+  - [Typescript](https://github.com/DrewArg/exercism/tree/main/typescript)
+
+-<b>Open Bootcamp</b>
+  - [Python - Django](https://github.com/DrewArg/open-bootcamp)
 
 
 <h2> 🤳 Contacto:</h2>
