@@ -1,7 +1,7 @@
 <h1>Buenas, soy Andrés <br/><a href="https://github.com/DrewArg">Desarrollador freelance</a> | <a href="https://www.linkedin.com/in/andr%C3%A9s-ezequiel-fabbiano-69186b93/">QA & Testing Team Leader</a>
 
 <!--<h2>👨‍💻 Software Development Projects:</h2>-->
-<h2>👨‍💻 Proyectos:</h2>
+<h2>👨‍💻 Proyectos de Desarrollo de Software:</h2>
 
 - <b>Java:</b>
   - [Spring REST API](https://github.com/DrewArg/dv-ds-20231c-g4)
