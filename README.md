@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1>Buenas, soy Andrés <br/><a href="https://github.com/DrewArg">Desarrollador freelance</a>, <a href="https://www.linkedin.com/in/andr%C3%A9s-ezequiel-fabbiano-69186b93/">QA & Testing Team Leader</a>
 
-<!--
-**DrewArg/DrewArg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--<h2>👨‍💻 Software Development Projects:</h2>-->
+<h2>👨‍💻 Proyectos:</h2>
 
-Here are some ideas to get you started:
+- <b>Node JS:</b>
+  - [API REST](https://github.com/DrewArg/ProgramacionBackend/tree/main)
+- <b>React JS:</b>
+  - [La Batalla por el Reino Animal 🐙 ❌ 🐺](https://github.com/DrewArg/ProyectoFinalReactJs) 
+- <b>Javascript</b>
+  - [Batalla por el Reino Animal](https://github.com/DrewArg/ProyectoFinalJavaScript)
+- <b> HTML & CSS:</b>
+  - [La Dormilona Padel Tour](https://github.com/DrewArg/La_Dormilona_Padel_Tour-AndresFabbiano)
+<!-- - <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 Certificados</h2>
+
+
+<h2> 🤳 Contacto:</h2>
+
+[<img align="left" alt="Andres Fabbiano | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Andres Fabbiano | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+
+[linkedin]: https://www.linkedin.com/in/andr%C3%A9s-ezequiel-fabbiano-69186b93/
+[gmail]:mailto:andresfabbiano@gmail.com
