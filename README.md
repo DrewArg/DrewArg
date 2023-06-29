@@ -24,7 +24,7 @@
   - [El Hotel](https://github.com/DrewArg/ProduccionWeb1)
 - <b> HTML & CSS:</b>
   - [La Dormilona Padel Tour](https://github.com/DrewArg/La_Dormilona_Padel_Tour-AndresFabbiano)
-- <b>C - Arduino Uno</>
+- <b>C - Arduino Uno</b>
   - [Levantador de Persinas](https://github.com/DrewArg/LevantadorDePersianas)
 
 <h2>🎓 Certificados</h2>
