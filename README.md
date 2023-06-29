@@ -50,14 +50,17 @@
   
 - [QA Manual Testing](https://www.coderhouse.com/certificados/63c5863a1d35cc000e93f375)
 
+<!--
 <h2> Ejecitaciones</h2>
 - <b>Exercism</b>
+
   - [Python](https://github.com/DrewArg/exercism/tree/main/python)
+  
   - [Typescript](https://github.com/DrewArg/exercism/tree/main/typescript)
 
 -<b>Open Bootcamp</b>
   - [Python - Django](https://github.com/DrewArg/open-bootcamp)
-
+-->
 
 <h2> 🤳 Contacto:</h2>
 
